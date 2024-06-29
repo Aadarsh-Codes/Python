@@ -1,7 +1,7 @@
 """
 @ file :- String_Methods.py
 @ Description :- Studying About String Methods
-@ Author :- Aadarsh Nanaware(nanawareaadarsh7@gmail.com)
+@ Author :- Aadarsh Nanaware(nanawareaadarsh333@gmail.com)
 
 """
 

@@ -1,7 +1,7 @@
 '''
 @file:-Escape_Sequance.py
 @Descripition :- This Program Demonstrate the use of  different Common type Escape Escape_Sequance
-@Author :- Aadarsh Nanaware(nanawareaadarsh7@gmail.com)
+@Author :- Aadarsh Nanaware(nanawareaadarsh333@gmail.com)
 
 '''
 # 1st (\n)

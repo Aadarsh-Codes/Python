@@ -1,7 +1,7 @@
 '''
 @file:- python01.py
 @Descripition :- writing our 1st program in python
-@Author :- Aadarsh Nanaware(nanawareaadarsh7@gmail.com)
+@Author :- Aadarsh Nanaware(nanawareaadarsh333@gmail.com)
 
 '''
 

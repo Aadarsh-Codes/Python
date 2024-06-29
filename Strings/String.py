@@ -1,7 +1,7 @@
 """
 @ file :- String.py
 @ Description :- Studying About String / String Slicing 
-@ Author :- Aadarsh Nanaware(nanawareaadarsh7@gmail.com)
+@ Author :- Aadarsh Nanaware(nanawareaadarsh333@gmail.com)
 
 """
 str = "Hello"     # String With Duble Quote
