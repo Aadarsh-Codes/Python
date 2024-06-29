@@ -2,7 +2,7 @@
 @file:-Escape_Sequance.py
 @Descripition :- This Program Demonstrate the use of  different Common type Escape Escape_Sequance
 @Author :- Aadarsh Nanaware(nanawareaadarsh7@gmail.com)
-@Date :- 02/05/2024
+
 '''
 # 1st (\n)
 print("Hello ,\nStudent")

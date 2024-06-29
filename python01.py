@@ -2,7 +2,7 @@
 @file:- python01.py
 @Descripition :- writing our 1st program in python
 @Author :- Aadarsh Nanaware(nanawareaadarsh7@gmail.com)
-@Date :- 02/05/2024
+
 '''
 
 

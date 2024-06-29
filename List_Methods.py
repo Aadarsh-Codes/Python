@@ -2,7 +2,7 @@
 @ file :- List_Methods.py
 @ Description :- Studying About List Methods
 @ Author :- Aadarsh Nanaware(nanawareaadarsh7@gmail.com)
-@Date :-  14/06/2024
+
 """
 
 
