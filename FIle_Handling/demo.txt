@@ -1,0 +1,5 @@
+This File Was Created by using Write method
+Hello Guyes,
+ Welcome to python Programing 
+ We Writing Script for File Handling
+Adding new Line in the file
